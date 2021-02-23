@@ -1,10 +1,10 @@
 #include<stdio.h> // Biblioteca Principal
 
-int main(){ //
+int main(){ 
 
 printf("Hi World\n");
 
-printf("Soy Diego Rodriguez Lopez 2EV9\n");
+printf("Soy Diego Rodriguez Lopez\n");
 
 return 1;
 }
